@@ -1,1 +1,2 @@
 remote git hub change text to show pull with rebase option used on local master
+hot fix applied after stashing some work
