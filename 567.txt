@@ -1,4 +1,1 @@
-AZLAAN AHMED QURESHI
-SAEEDA SAEEDA
-Google Google
-microsoft 
+remote git hub change text to show pull with rebase option used on local master
